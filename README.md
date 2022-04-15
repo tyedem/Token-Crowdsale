@@ -8,7 +8,7 @@ For this project, I am tasked with developing a monetary system for a new Mars c
 
 # KaseiCoin Demo
 
-To review the functionality of the Kaseicoin crowdsale, see KaseiCoinDemo.mov in this repository. The demonstration completes the following steps:
+To review the functionality of the Kaseicoin crowdsale, see `KaseiCoinDemo.mov` in this repository. The demonstration completes the following steps:
 
 1. Deploy the crowdsale to a local blockchain by using Remix, MetaMask, and Ganache.
 
