@@ -10,7 +10,7 @@ I have developed two `KaseiCoinCrowdsale.sol` versions. One for basic functional
 
 # Basic KaseiCoin Crowdsale Demo
 
-To review the functionality of the basic Kaseicoin crowdsale, see `KaseiCoinCrowdsaleDemo.mov` in this repository. The demonstration completes the following steps:
+To review the functionality of the basic KaseiCoin crowdsale, see `KaseiCoinCrowdsaleDemo.mov` in this repository. The demonstration completes the following steps:
 
 1. Deploy the crowdsale to a local blockchain by using Remix, MetaMask, and Ganache.
 
@@ -21,7 +21,7 @@ To review the functionality of the basic Kaseicoin crowdsale, see `KaseiCoinCrow
 
 # KaseiCoin Timed Crowdsale Demo
 
-To review the functionality of the Kaseicoin timed crowdsale, see `KaseiCoinTimedCrowdsaleDemo.mov` in this repository. The demonstration completes the following steps:
+To review the functionality of the KaseiCoin timed crowdsale, see `KaseiCoinTimedCrowdsaleDemo.mov` in this repository. The demonstration completes the following steps:
 
 1. Send ether to the crowdsale from a different account.
 
