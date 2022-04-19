@@ -37,7 +37,7 @@ To review the functionality of the KaseiCoin timed crowdsale, see `KaseiCoinTime
 
 ![Compiled-KaseiCoin](Evaluation-Results/Compiled-KaseiCoin.png)
 
-## KaseiCoin Crowdsale Contract Compiled
+## KaseiCoin Crowdsale Contract Compiled (from [commit 6](https://github.com/tyedem/Token-Crowdsale/tree/b05ba37ece022b0d700dd74b13ceb75cab12fdf3))
 
 ![Compiled-KaseiCoinCrowdsale](Evaluation-Results/Compiled-KaseiCoinCrowdsale.png)
 
@@ -45,6 +45,6 @@ To review the functionality of the KaseiCoin timed crowdsale, see `KaseiCoinTime
 
 ![Compiled-KaseiCoinDeployer](Evaluation-Results/Compiled-KaseiCoinDeployer.png)
 
-## Timed KaseiCoin Crowdsale Contract Compiled
+## Timed KaseiCoin Crowdsale Contract Compiled (from [commit 12](https://github.com/tyedem/Token-Crowdsale/tree/d9c9578f846866c3b97aa7ecdc05883afa58197b))
 
 ![Compiled-KaseiCoinTimedCrowdsale](Evaluation-Results/Compiled-KaseiCoinTimedCrowdsale.png)
