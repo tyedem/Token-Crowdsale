@@ -6,7 +6,7 @@
 
 For this project, I am tasked with developing a monetary system for a new Mars colony by creating a KaseiCoin token contract, a KaseiCoin crowdsale contract and a KaseiCoin deployer contract. For testing, I have deployed on a local blockchain via Ganache. KaseiCoin is a fungible token and is ERC-20 compliant. The purpose of this crowdsale is to convert earthling money to KaseiCoin.
 
-I have developed two `KaseiCoinCrowdsale.sol` versions. One for basic functionality (see [commit 6](https://github.com/tyedem/Token-Crowdsale/tree/b05ba37ece022b0d700dd74b13ceb75cab12fdf3)) and another extended version for timed crowdsales (see [commit 12](https://github.com/tyedem/Token-Crowdsale/tree/d9c9578f846866c3b97aa7ecdc05883afa58197b)).
+I have developed two `KaseiCoinCrowdsale.sol` versions. One for basic functionality (see [commit 7](https://github.com/tyedem/Token-Crowdsale/tree/3e997fa3a4da4c956f59d8744d4f056b4ad16993)) and another extended version for timed crowdsales (see [commit 12](https://github.com/tyedem/Token-Crowdsale/tree/d9c9578f846866c3b97aa7ecdc05883afa58197b)).
 
 # Basic KaseiCoin Crowdsale Demo
 
@@ -37,7 +37,7 @@ To review the functionality of the KaseiCoin timed crowdsale, see `KaseiCoinTime
 
 ![Compiled-KaseiCoin](Evaluation-Results/Compiled-KaseiCoin.png)
 
-## KaseiCoin Crowdsale Contract Compiled (from [commit 6](https://github.com/tyedem/Token-Crowdsale/tree/b05ba37ece022b0d700dd74b13ceb75cab12fdf3))
+## KaseiCoin Crowdsale Contract Compiled (from [commit 7](https://github.com/tyedem/Token-Crowdsale/tree/3e997fa3a4da4c956f59d8744d4f056b4ad16993))
 
 ![Compiled-KaseiCoinCrowdsale](Evaluation-Results/Compiled-KaseiCoinCrowdsale.png)
 
